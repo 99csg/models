@@ -1,0 +1,8 @@
+prefix=/home/csg/ws_moveit/devel
+
+Name: chomp_motion_planner
+Description: Description of chomp_motion_planner
+Version: 1.1.13
+Cflags: -I/home/csg/ws_moveit/src/moveit/moveit_planners/chomp/chomp_motion_planner/include
+Libs: -L${prefix}/lib -lchomp_motion_planner
+Requires: 

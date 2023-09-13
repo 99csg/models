@@ -1,0 +1,6 @@
+pose_subscriber
+/home/csg/ws_moveit/devel/.private/pose_subscriber/cmake.lock /home/csg/ws_moveit/devel/./cmake.lock
+/home/csg/ws_moveit/devel/.private/pose_subscriber/share/pose_subscriber/cmake/pose_subscriberConfig-version.cmake /home/csg/ws_moveit/devel/share/pose_subscriber/cmake/pose_subscriberConfig-version.cmake
+/home/csg/ws_moveit/devel/.private/pose_subscriber/share/pose_subscriber/cmake/pose_subscriberConfig.cmake /home/csg/ws_moveit/devel/share/pose_subscriber/cmake/pose_subscriberConfig.cmake
+/home/csg/ws_moveit/devel/.private/pose_subscriber/lib/pkgconfig/pose_subscriber.pc /home/csg/ws_moveit/devel/lib/pkgconfig/pose_subscriber.pc
+/home/csg/ws_moveit/devel/.private/pose_subscriber/lib/pose_subscriber/pose_subscriber_node /home/csg/ws_moveit/devel/lib/pose_subscriber/pose_subscriber_node

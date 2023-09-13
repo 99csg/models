@@ -1,0 +1,5 @@
+pigeon_ros_tutorial/basic/basic_launch_tutorial
+/home/csg/ws_moveit/devel/.private/basic_launch_tutorial/cmake.lock /home/csg/ws_moveit/devel/./cmake.lock
+/home/csg/ws_moveit/devel/.private/basic_launch_tutorial/share/basic_launch_tutorial/cmake/basic_launch_tutorialConfig-version.cmake /home/csg/ws_moveit/devel/share/basic_launch_tutorial/cmake/basic_launch_tutorialConfig-version.cmake
+/home/csg/ws_moveit/devel/.private/basic_launch_tutorial/share/basic_launch_tutorial/cmake/basic_launch_tutorialConfig.cmake /home/csg/ws_moveit/devel/share/basic_launch_tutorial/cmake/basic_launch_tutorialConfig.cmake
+/home/csg/ws_moveit/devel/.private/basic_launch_tutorial/lib/pkgconfig/basic_launch_tutorial.pc /home/csg/ws_moveit/devel/lib/pkgconfig/basic_launch_tutorial.pc

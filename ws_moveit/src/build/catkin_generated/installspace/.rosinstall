@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/csg/ws_moveit/src/install/setup.sh

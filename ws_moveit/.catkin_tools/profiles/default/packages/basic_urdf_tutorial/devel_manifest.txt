@@ -1,0 +1,5 @@
+pigeon_ros_tutorial/basic/basic_urdf_tutorial
+/home/csg/ws_moveit/devel/.private/basic_urdf_tutorial/cmake.lock /home/csg/ws_moveit/devel/./cmake.lock
+/home/csg/ws_moveit/devel/.private/basic_urdf_tutorial/share/basic_urdf_tutorial/cmake/basic_urdf_tutorialConfig.cmake /home/csg/ws_moveit/devel/share/basic_urdf_tutorial/cmake/basic_urdf_tutorialConfig.cmake
+/home/csg/ws_moveit/devel/.private/basic_urdf_tutorial/share/basic_urdf_tutorial/cmake/basic_urdf_tutorialConfig-version.cmake /home/csg/ws_moveit/devel/share/basic_urdf_tutorial/cmake/basic_urdf_tutorialConfig-version.cmake
+/home/csg/ws_moveit/devel/.private/basic_urdf_tutorial/lib/pkgconfig/basic_urdf_tutorial.pc /home/csg/ws_moveit/devel/lib/pkgconfig/basic_urdf_tutorial.pc

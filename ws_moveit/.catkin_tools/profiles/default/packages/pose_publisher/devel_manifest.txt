@@ -1,0 +1,6 @@
+pose_publisher
+/home/csg/ws_moveit/devel/.private/pose_publisher/cmake.lock /home/csg/ws_moveit/devel/./cmake.lock
+/home/csg/ws_moveit/devel/.private/pose_publisher/share/pose_publisher/cmake/pose_publisherConfig.cmake /home/csg/ws_moveit/devel/share/pose_publisher/cmake/pose_publisherConfig.cmake
+/home/csg/ws_moveit/devel/.private/pose_publisher/share/pose_publisher/cmake/pose_publisherConfig-version.cmake /home/csg/ws_moveit/devel/share/pose_publisher/cmake/pose_publisherConfig-version.cmake
+/home/csg/ws_moveit/devel/.private/pose_publisher/lib/pkgconfig/pose_publisher.pc /home/csg/ws_moveit/devel/lib/pkgconfig/pose_publisher.pc
+/home/csg/ws_moveit/devel/.private/pose_publisher/lib/pose_publisher/pose_publisher_node /home/csg/ws_moveit/devel/lib/pose_publisher/pose_publisher_node
